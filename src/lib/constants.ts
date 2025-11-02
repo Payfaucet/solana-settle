@@ -1,2 +1,0 @@
-export const ADMIN_ADDRESS = "Cgkg49NwM9S5vAowZEfnCHR6K3P4brE6brbzJM5eRX2q";
-export const MIN_BET_LAMPORTS = "1000000";
